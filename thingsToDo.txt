@@ -1,0 +1,67 @@
+Join Main Thread
+change that text file thing for the editor
+fix upload - file does not exist
+delete files on client end after being closed
+fix deleting across servers
+
+
+
+
+
+CHANGE SERVER 
+get server name and ip
+check UDP thing to see if the server is up
+connect to that server and send it the same instruction
+
+ADD METHOD TO DECIDE AND SEND FILE TO ANOTHER SERVER
+
+
+download - if file on another server, tell to get it from there
+
+messaging - between servers
+
+UI - colorful
+
+file creation - decide where to go
+
+startup - startup pr which instructions to get first
+
+
+DIRECTORY
+create
+remove
+
+FILE
+create - incoming - done
+remove - incoming - done
+
+SERVERS - CHANGE FILE NAMES - CHANGE BINARY COUNT
+
+client - delete files after use - save in cache folder
+
+fix binary count
+
+CLIENT FILE EXISTS CHECK
+HARDCODE SERVER NAMES
+CHANGE SERVER IF FILE EXISTS there
+THINK ABOUT ASSUMPTIONS - WHICH SERVER CLOSES BLAH BLAH
+
+FIX SERVER DICT thing
+DECIDE WHICH SERVER TO SEND TO 
+
+IF SERVER 3 replicates file on server 2 and server 2 is down then server 3 goes down and server 2 comes up and then server 3 comes up - want file protocol at startup
+user in folder - folder deleted
+
+user updates file - file already removed - check node removal - WORKS FINE
+
+HANDSHAKE done
+
+CLIENT - SERVER RESTART NOT HANDLING WELL
+
+HANDLE SWITCH SERVER - NO SERVER UNAVAILABLE
+
+CLIENT IN DIRECTORY - DIRECTORY removed
+
+FILE UPLOAD/CREATE DIRECTORY REMOVED BY ANOTHER CLIENT ISSUE
+
+REMOVE SERVER LIST SHOWING UP IN THE CLIENT

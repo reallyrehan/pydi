@@ -1,0 +1,9 @@
+Have one socket on each server to talk to the client
+Have one socket on each server for file transfer to any server or updating file listing
+
+SOCKETS ON SERVER
+3 - Socket Threads waiting to do File I/O and messaging
+5000,5001,5002
+
+
+1 - Client Thr

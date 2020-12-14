@@ -1,12 +1,6 @@
 ##
 # PyDi
 
-### HELP FILE
-
-**Project:                       ** Distributed File System
-**Language:               ** Python
-**Operating System:       ** Windows, Linux, Mac OS
-
 ## Setup and Installation
 
 ### Server - Side
@@ -17,7 +11,7 @@
 - Python3 Libraries
   - _pickle_
 
-**INSTALLATION**
+** INSTALLATION **
 
 1. [Download the server.py file](https://gist.github.com/reallyrehan/76ff02a6af8fd6a1bdfc6890ca52283d) and save it in any folder.
 
